@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "cross-fetch": "2.1.0"
+  },
+  "name": "json-server",
+  "version": "1.0.0",
+  "description": "This is a simple json-server for deploying react application.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yisiang",
+  "license": "ISC"
+}
